@@ -27,7 +27,7 @@ for (let i=3; i<=8; i++){
  //Გამოაცხადეთ ობიექტი person რომელსაც აქვს firstName, lastName, age 
  // და დაბეჭდეთ person-სრული სახელი ( სახელი და გვარი)
 
- /*const person={
+ /*let person={
     firstname: "ნინო",
     lastname: "ბენიძე",
     age: 27
@@ -37,7 +37,7 @@ for (let i=3; i<=8; i++){
 
  //დაბეჭდეთ მეოთხე დავალებაში გამოცხადებული პერსონის თითოეული property value 
 
- /*const person={
+ /*let person={
     firstname:'ნინო',
     lastname:'ბენიძე',
     age:27
@@ -45,7 +45,6 @@ for (let i=3; i<=8; i++){
  for (let key in person){
     console.log(person[key]);
  }*/
-
 
  //დაწერეთ მასივი fruits ელემენტებით ["Apple", "Banana", "Orange"]; 
 //დაბეჭდეთ მასივის თითოეული წევრი.
