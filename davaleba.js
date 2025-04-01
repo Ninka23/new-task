@@ -50,14 +50,14 @@ for (let i=3; i<=8; i++){
  //დაწერეთ მასივი fruits ელემენტებით ["Apple", "Banana", "Orange"]; 
 //დაბეჭდეთ მასივის თითოეული წევრი.
 
-/*const fruits = ['apple','banana','orange'];
+/*let fruits = ['apple','banana','orange'];
 for (let i=0; i<fruits.length; i++){
     console.log(fruits[i]);
 }*/
 
 
 //დაამატეთ fruits მასივის თავში Grapes და ბოლოში  Pineapples დაბეჭდეთ fruits
-/*const fruits = ['apple','banana','orange'];
+/*let fruits = ['apple','banana','orange'];
 fruits.unshift('grapes');
 fruits.push('pineapple');
 console.log(fruits);*/
@@ -65,8 +65,8 @@ console.log(fruits);*/
 
 //დაბეჭდეთ 1 დან 34 მდე რიცხვების ჯამი
 
-let ჯამი=0;
+/*let ჯამი=0;
 for(let i =1; i<=34; i++){
     ჯამი+=i;
 }
-console.log(ჯამი);
+console.log(ჯამი);*/
